@@ -1,0 +1,11 @@
+  System.out.println("Menu");
+        System.out.println("1. Mostrar Lista");
+        System.out.println("2. Mostrar Nombre de Productos");
+        System.out.println("3. Mostrar Nombre y Precio de Productos");
+        System.out.println("4. Mostrar Productos con precio entre 120 y 202");
+        System.out.println("5. Mostrar Portatiles");
+        System.out.println("6. Mostrar Producto mas barato");
+        System.out.println("7. Ingresar Producto");
+        System.out.println("8. Modificar Producto");
+        System.out.println("9. Ingresar Producto");
+        System.out.println("10. Salida");
